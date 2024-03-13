@@ -1,5 +1,5 @@
+#soft2i
 # Docs View
-
 VS Code extension that displays hover documentation in the sidebar or panel.
 
 ![The docs view in the sidebar](https://raw.githubusercontent.com/mattbierner/vscode-docs-view/master/documentation/example-sidebar.png)
